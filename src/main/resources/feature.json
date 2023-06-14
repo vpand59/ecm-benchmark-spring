@@ -1,0 +1,9 @@
+{
+  "aimId": "600000712",
+  "features": [
+    {
+      "name" : "Test_sse_1",
+      "toggle": "off"
+    }
+  ]
+}
